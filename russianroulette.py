@@ -16,11 +16,10 @@ if not is_admin():
     input("Press Enter to exit...")
     sys.exit(1)
 
-# Your main program logic here
-# ...
+#main program logic
 
 print("Running with administrator privileges.")
-# Continue with the rest of your program...
+# Continue with the rest of the program...
 
 
 #random number between 0 and 6
